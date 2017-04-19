@@ -1,4 +1,7 @@
-# test coverage for  [ntl (v1.2.0)](https://github.com/ruyadorno/ntl#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ntl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ntl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ntl.svg)](https://travis-ci.org/npmtest/node-npmtest-ntl)
+# npmtest-ntl
+
+#### test coverage for  [ntl (v1.2.0)](https://github.com/ruyadorno/ntl#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ntl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ntl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ntl.svg)](https://travis-ci.org/npmtest/node-npmtest-ntl)
+
 #### Npm Task List: Interactive cli menu to list/run npm tasks
 
 [![NPM](https://nodei.co/npm/ntl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ntl)
